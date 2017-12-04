@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"nini",
+        "team":"雷森",
+        "num":210
+    },
+    {
+        "id":2,
+        "name":"max",
+        "team":"雷森",
+        "num":300
+    },
+    {
+        "id":3,
+        "name":"shanzhu",
+        "team":"雷森",
+        "num":20
+    },
+    {
+        "id":4,
+        "name":"jaspon",
+        "team":"雷森",
+        "num":500
+    }
+]
